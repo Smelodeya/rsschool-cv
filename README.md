@@ -1,1 +1,1 @@
-https://Smelodeya.github.io/rsschool-cv/cv
+https://Smelodeya.github.io/rsschool-cv/
