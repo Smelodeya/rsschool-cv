@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Smelodeya.github.io/rsschool-cv/
