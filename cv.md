@@ -21,7 +21,7 @@ function multiply(a, b){
 ## Education
 - University: Izhevsk State Technical University
 - Courses:
-    - Interactive SQL trainer ([сертификат](https://stepik.org/cert/1438308))
+    - Interactive SQL trainer ([sertificate](https://stepik.org/cert/1438308))
 	- JavaRush(32 level) 
 ## Languages
 - Russian - Native
